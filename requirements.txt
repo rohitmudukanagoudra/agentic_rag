@@ -1,0 +1,22 @@
+# Core
+streamlit
+python-dotenv
+
+# Langchain and dependencies
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+# langchain-tools
+
+# Embeddings and vector store
+sentence-transformers
+faiss-cpu
+PyPDF2
+pdfplumber
+# docx
+
+# Tavily tool (via langchain_community)
+# tavily-python
+
