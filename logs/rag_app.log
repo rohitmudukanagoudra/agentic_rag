@@ -1,0 +1,114 @@
+RAG    2025-05-09 00:51:00,820 INFO   thread:6294630400 - Rendered image : images/product_logo.png
+RAG    2025-05-09 00:51:25,331 INFO   thread:6294630400 - Rendered image : images/product_logo.png
+RAG    2025-05-09 00:53:33,203 INFO   thread:6294630400 - Rendered image : images/product_logo.png
+RAG    2025-05-09 00:56:19,666 INFO   thread:14604709888 - Rendered image : images/product_logo.png
+RAG    2025-05-09 00:56:45,233 INFO   thread:14604709888 - Rendered image : images/product_logo.png
+RAG    2025-05-09 02:34:16,840 INFO   thread:6216314880 - Rendered image : images/product_logo.png
+RAG    2025-05-09 02:34:27,678 INFO   thread:12918534144 - Rendered image : images/product_logo.png
+RAG    2025-05-09 02:40:33,260 INFO   thread:6233681920 - Rendered image : images/product_logo.png
+RAG    2025-05-09 02:40:39,736 INFO   thread:6199488512 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:03:24,687 INFO   thread:6233681920 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:03:30,288 INFO   thread:12993196032 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:20:17,213 INFO   thread:6201487360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:20:31,320 INFO   thread:6201487360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:23:23,093 INFO   thread:13274165248 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:23:40,163 INFO   thread:13274165248 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:23:43,763 INFO   thread:13274165248 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:26:33,982 INFO   thread:13274165248 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:26:57,501 INFO   thread:14592765952 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:27:00,023 ERROR  thread:14592765952 - Error in getting response from the server: Too many arguments to single-input tool VectorStoreSearch.
+                Consider using StructuredTool instead. Args: ['string', 'title of the job being hired for']
+RAG    2025-05-09 04:27:57,886 INFO   thread:14592765952 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:27:59,085 ERROR  thread:14592765952 - Error in getting response from the server: Too many arguments to single-input tool VectorStoreSearch.
+                Consider using StructuredTool instead. Args: ['string', 'current scenario in India']
+RAG    2025-05-09 04:33:34,337 INFO   thread:14592765952 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:33:53,260 INFO   thread:14592765952 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:34:24,256 INFO   thread:14592765952 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:34:26,169 INFO   thread:14592765952 - LLM CLIENT: Response generated from LLM in 0.03175061146418254: {'input': 'hi', 'output': 'Hi there! How can I help you today?'}
+RAG    2025-05-09 04:34:43,620 INFO   thread:14592765952 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:34:44,505 ERROR  thread:14592765952 - Error in getting response from the server: Too many arguments to single-input tool VectorStoreSearch.
+                Consider using StructuredTool instead. Args: ['string', 'current events in India']
+RAG    2025-05-09 04:35:32,239 INFO   thread:14592765952 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:35:33,161 ERROR  thread:14592765952 - Error in getting response from the server: Too many arguments to single-input tool VectorStoreSearch.
+                Consider using StructuredTool instead. Args: ['string', 'API definition']
+RAG    2025-05-09 04:42:29,033 INFO   thread:6155563008 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:42:35,262 INFO   thread:6378516480 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:42:59,089 INFO   thread:14602498048 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:43:03,265 INFO   thread:14602498048 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:43:15,428 INFO   thread:14602498048 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:43:17,525 INFO   thread:14602498048 - LLM CLIENT: Response generated from LLM in 0.034788302580515545: {'input': 'hi', 'output': 'Hi there! How can I help you today?'}
+RAG    2025-05-09 04:43:30,847 INFO   thread:14602498048 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:43:33,689 INFO   thread:14602498048 - LLM CLIENT: Response generated from LLM in 0.04719283183415731: {'input': 'What is the current situation of India', 'output': 'I am sorry, I cannot provide you with the current situation of India at this time due to technical difficulties. Please try again later.'}
+RAG    2025-05-09 04:43:59,722 INFO   thread:14602498048 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:44:00,589 ERROR  thread:14602498048 - Error in getting response from the server: name 'RetrievalQA' is not defined
+RAG    2025-05-09 04:47:27,721 INFO   thread:14602498048 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:47:33,187 INFO   thread:14602498048 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:47:35,499 ERROR  thread:14602498048 - Error in getting response from the server: name 'RetrievalQA' is not defined
+RAG    2025-05-09 04:48:26,215 INFO   thread:14602498048 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:48:38,443 INFO   thread:14602498048 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:48:40,836 ERROR  thread:14602498048 - Error in getting response from the server: name 'RetrievalQA' is not defined
+RAG    2025-05-09 04:49:09,558 INFO   thread:6165426176 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:50:01,197 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:50:30,756 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:50:38,624 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:51:01,080 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:51:10,030 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:51:32,483 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:51:55,091 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:52:08,528 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:52:18,539 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:53:37,007 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:53:49,237 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:53:53,715 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:53:58,211 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 04:54:01,674 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:02:07,281 INFO   thread:6367375360 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:02:26,846 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:02:31,076 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:02:47,189 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:02:49,476 INFO   thread:14594109440 - LLM CLIENT: Response generated from LLM in 0.03797753651936849: {'input': 'Hey', 'output': 'Hey there! How can I help you today?'}
+RAG    2025-05-09 05:03:44,764 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:03:58,178 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:04:02,876 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:04:04,183 INFO   thread:14594109440 - LLM CLIENT: Response generated from LLM in 0.021665966510772704: {'input': 'Hello', 'output': 'Hello there! How can I help you today?'}
+RAG    2025-05-09 05:04:15,437 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:04:33,490 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:04:40,287 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:04:43,620 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:04:49,336 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:04:51,424 INFO   thread:14594109440 - LLM CLIENT: Response generated from LLM in 0.03457810481389364: {'input': 'Hey', 'output': 'Hey there! How can I help you today?'}
+RAG    2025-05-09 05:06:12,014 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:06:39,118 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:06:49,530 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:07:30,782 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:08:59,928 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:09:06,985 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:09:56,063 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:10:07,385 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:10:15,339 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:11:18,023 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:11:25,026 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:14:19,722 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:14:37,193 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:14:37,781 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:14:43,468 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:14:54,096 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:14:57,136 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:17:30,342 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:17:46,573 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:18:16,959 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:18:39,605 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:18:56,553 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:19:01,264 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:19:03,970 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:19:06,787 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:19:31,126 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:20:30,440 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:20:36,031 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:20:38,177 INFO   thread:14594109440 - LLM CLIENT: Response generated from LLM in 0.03546690146128337: {'input': 'Currently non functional', 'output': 'Understood. I am ready for your request.'}
+RAG    2025-05-09 05:21:09,671 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:21:11,992 INFO   thread:14594109440 - LLM CLIENT: Response generated from LLM in 0.03802574872970581: {'input': 'Currently non functional input method, try with textual input', 'output': 'Okay, I will use textual input.'}
+RAG    2025-05-09 05:21:30,789 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:21:36,100 INFO   thread:14594109440 - LLM CLIENT: Response generated from LLM in 0.08815025091171265: {'input': 'what is the file about?', 'output': 'The file is about a job posting for a Data Scientist/Machine Learning Engineer position.'}
+RAG    2025-05-09 05:22:17,855 INFO   thread:14594109440 - Rendered image : images/product_logo.png
+RAG    2025-05-09 05:22:20,887 INFO   thread:14594109440 - LLM CLIENT: Response generated from LLM in 0.05028201738993327: {'input': 'current weather details', 'output': 'I am sorry, I cannot provide current weather details at this time due to technical difficulties.'}
